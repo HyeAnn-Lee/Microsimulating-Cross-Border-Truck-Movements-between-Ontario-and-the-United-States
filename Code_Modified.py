@@ -1,5 +1,5 @@
 # This Car2X (C2X) example demonstrates how to model communication between vehicles.
-# At the time of breakdown, the vehicle sends out a warning message.
+# At the time of breakdown, the vehicle sends out a warning message. 
 # Vehicles receiving this message will drop their speed and adjust their driving behavior until they passed the incident.
 
 def Initialization():
