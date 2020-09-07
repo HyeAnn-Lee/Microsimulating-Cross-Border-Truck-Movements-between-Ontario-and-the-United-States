@@ -1,5 +1,5 @@
 # Microsimulating-Cross-Border-Truck-Movements-between-Ontario-and-the-United-States
-Python code copied from https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=9211&amp;context=etd
+Python code copied from 
 
 I found out that the Python code from Appendix of the paper is not easy to see, because of indentation issue.
 
